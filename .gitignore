@@ -175,3 +175,10 @@ cython_debug/
 .pypirc
 materials/Larch_calc_example/.DS_Store
 .DS_Store
+
+
+# Scratchpad
+.md
+# Data cache
+materials/Larch_calc_example/FEFF_paths/**/*
+physics/FEFF_paths/**/*
